@@ -25,7 +25,7 @@ Follow these steps to download, run, and stop the keylogger script:
 You have two options:
 
 🔹 Option A: Download as ZIP (No Git Required)
-Go to https://github.com/Ankur857/key
+Go to https://github.com/Ankur857/Keylogger
 
 Click the green "Code" button and select "Download ZIP".
 
