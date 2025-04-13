@@ -73,6 +73,9 @@ keylog_YYYYMMDD_HHMMSS.txt
 Example contents:
 
 [16:10:42] a
+
 [16:10:43] b
+
 [16:10:44] [Key.space]
+
 [16:10:45] [Key.enter]
