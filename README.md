@@ -25,7 +25,7 @@ Follow these steps to download, run, and stop the keylogger script:
 You have two options:
 
 🔹 Option A: Download as ZIP (No Git Required)
-Go to https://github.com/atulanand05/keylogger
+Go to https://github.com/Ankur857/key
 
 Click the green "Code" button and select "Download ZIP".
 
@@ -38,7 +38,7 @@ Example (if extracted in Downloads): ```bash cd Downloads/keylogger-main
 
 🔹 Option B: Clone with Git (Recommended) Open a terminal and run:
 
-git clone https://github.com/Ankur857/keylogger.git
+git clone https://github.com/Ankur857/key.git
 cd keylogger
 ✅ 2. Make Sure Python is Installed To check if Python is installed, run:
 
